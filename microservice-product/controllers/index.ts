@@ -1,0 +1,5 @@
+export * from "./create-product"
+export * from "./deleteByid-product"
+export * from "./update-product"
+export * from "./getAll-product"
+export * from "./getById-product"
