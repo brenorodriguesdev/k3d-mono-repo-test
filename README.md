@@ -1,1 +1,1 @@
-A mono-repo with micro front-ends and microservices to simulate on k8s cluster
+A mono-repo with micro-frontends and microservices to simulate on k8s cluster
